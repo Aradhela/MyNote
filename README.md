@@ -1,3 +1,6 @@
 # MyNote
 
-Program umożliwiający dodawanie oraz usuwanie notatek (notatki można dodać w jednej z 3 kategorii)
+Program umożliwiający dodawanie notatki oraz usunięcie pojedynczej notatki lub wszystkich notatek
+
+A program that allows you to add a note, delete a single note or all notes
+
